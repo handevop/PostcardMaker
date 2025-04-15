@@ -9,7 +9,7 @@ It is made in Croatian language.
 #### This is an image of create postcard interface.
 ![Creating postcard](https://github.com/user-attachments/assets/6bd3c43e-6502-482c-b19d-c70853a4a75a)
 
-#### When pressed the preview we get a postcard with 2 sides.
+#### When pressed the Preview button we get a postcard with 2 sides.
 
 #### Front side
 ![Front side](https://github.com/user-attachments/assets/cb51b4f1-7f00-4ef3-8b5f-d2060055e2af)
